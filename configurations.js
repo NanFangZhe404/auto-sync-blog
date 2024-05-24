@@ -12,7 +12,7 @@ export default {
 
   // vite press 构建配置
   press: {
-    name: "每日掘金",
+    name: "南方",
     text: "了解社区最新动态，发现最优质文章、最优质的你。",
     tagline: "专注于发掘站内优质创作者和优质内容",
     image: "https://vitepress.dev/vitepress-logo-large.webp",
